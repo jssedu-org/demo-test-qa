@@ -1,4 +1,4 @@
-package com.usdev.demotestqa;
+package com.usdev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
